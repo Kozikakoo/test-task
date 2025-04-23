@@ -1,0 +1,22 @@
+.categories {
+  &__title {
+    font-size: 2.4rem;
+    font-weight: 700;
+  }
+
+  &__list {
+    margin-top: 30px;
+    display: flex;
+    font-size: 1.8rem;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  &__item {
+    &:hover {
+      cursor: pointer;
+      font-weight: 700;
+      color: $orange;
+    }
+  }
+}

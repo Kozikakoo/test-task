@@ -1,0 +1,908 @@
+{
+  "clothing": [
+    {
+      "id": 1,
+      "name": "Куртка демисезонная",
+      "price": 1501,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Свитер вязаный",
+      "price": 1992,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Юбка миди",
+      "price": 4051,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Свитер вязаный",
+      "price": 1786,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Куртка демисезонная",
+      "price": 2787,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Платье повседневное",
+      "price": 3011,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Футболка базовая",
+      "price": 4259,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Футболка базовая",
+      "price": 4270,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Жилет утепленный",
+      "price": 3187,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Рубашка классическая",
+      "price": 702,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Юбка миди",
+      "price": 2926,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Куртка демисезонная",
+      "price": 4504,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Футболка базовая",
+      "price": 3122,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Жилет утепленный",
+      "price": 1974,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Куртка демисезонная",
+      "price": 2365,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Рубашка классическая",
+      "price": 4639,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Куртка демисезонная",
+      "price": 2935,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Платье повседневное",
+      "price": 4961,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Жилет утепленный",
+      "price": 4974,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Жилет утепленный",
+      "price": 2884,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Жилет утепленный",
+      "price": 331,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Свитер вязаный",
+      "price": 1548,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Толстовка с капюшоном",
+      "price": 1362,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Футболка базовая",
+      "price": 1894,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Жилет утепленный",
+      "price": 1624,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Толстовка с капюшоном",
+      "price": 2508,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Джинсы скинни",
+      "price": 4468,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Свитер вязаный",
+      "price": 3453,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Жилет утепленный",
+      "price": 632,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Толстовка с капюшоном",
+      "price": 3161,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Джинсы скинни",
+      "price": 1651,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Футболка базовая",
+      "price": 937,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Юбка миди",
+      "price": 2500,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Джинсы скинни",
+      "price": 1441,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Куртка демисезонная",
+      "price": 2171,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Жилет утепленный",
+      "price": 2113,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Юбка миди",
+      "price": 2310,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Футболка базовая",
+      "price": 1121,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Шорты спортивные",
+      "price": 2405,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Рубашка классическая",
+      "price": 2807,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Шорты спортивные",
+      "price": 2476,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Жилет утепленный",
+      "price": 4676,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Шорты спортивные",
+      "price": 1477,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Толстовка с капюшоном",
+      "price": 4783,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Шорты спортивные",
+      "price": 4181,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Джинсы скинни",
+      "price": 1917,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Футболка базовая",
+      "price": 648,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Рубашка классическая",
+      "price": 3316,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Куртка демисезонная",
+      "price": 1943,
+      "image": "/images/clothing.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Толстовка с капюшоном",
+      "price": 2152,
+      "image": "/images/clothing.jpg"
+    }
+  ],
+  "food": [
+    {
+      "id": 51,
+      "name": "Йогурт клубничный",
+      "price": 2986,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 52,
+      "name": "Картофель молодой, 2 кг",
+      "price": 4548,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 53,
+      "name": "Гречка, 1 кг",
+      "price": 4518,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 54,
+      "name": "Гречка, 1 кг",
+      "price": 491,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 55,
+      "name": "Сыр твердый, 200 г",
+      "price": 1503,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 56,
+      "name": "Морковь свежая, 1 кг",
+      "price": 3565,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 57,
+      "name": "Картофель молодой, 2 кг",
+      "price": 2128,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 58,
+      "name": "Молоко 2.5%",
+      "price": 474,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 59,
+      "name": "Куриное филе, 1 кг",
+      "price": 3621,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 60,
+      "name": "Сыр твердый, 200 г",
+      "price": 2751,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 61,
+      "name": "Шоколад молочный",
+      "price": 4443,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 62,
+      "name": "Хлеб ржаной",
+      "price": 2191,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 63,
+      "name": "Шоколад молочный",
+      "price": 588,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 64,
+      "name": "Шоколад молочный",
+      "price": 904,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 65,
+      "name": "Яблоки зеленые, 1 кг",
+      "price": 4495,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 66,
+      "name": "Шоколад молочный",
+      "price": 2434,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 67,
+      "name": "Картофель молодой, 2 кг",
+      "price": 1887,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 68,
+      "name": "Шоколад молочный",
+      "price": 3320,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 69,
+      "name": "Сыр твердый, 200 г",
+      "price": 1022,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 70,
+      "name": "Молоко 2.5%",
+      "price": 4322,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 71,
+      "name": "Йогурт клубничный",
+      "price": 1152,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 72,
+      "name": "Шоколад молочный",
+      "price": 3671,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 73,
+      "name": "Гречка, 1 кг",
+      "price": 330,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 74,
+      "name": "Шоколад молочный",
+      "price": 3758,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 75,
+      "name": "Яблоки зеленые, 1 кг",
+      "price": 1706,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 76,
+      "name": "Сыр твердый, 200 г",
+      "price": 1015,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 77,
+      "name": "Молоко 2.5%",
+      "price": 4758,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 78,
+      "name": "Гречка, 1 кг",
+      "price": 4650,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 79,
+      "name": "Картофель молодой, 2 кг",
+      "price": 4776,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 80,
+      "name": "Картофель молодой, 2 кг",
+      "price": 4153,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 81,
+      "name": "Сыр твердый, 200 г",
+      "price": 2186,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 82,
+      "name": "Йогурт клубничный",
+      "price": 4828,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 83,
+      "name": "Гречка, 1 кг",
+      "price": 3410,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 84,
+      "name": "Картофель молодой, 2 кг",
+      "price": 1696,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 85,
+      "name": "Морковь свежая, 1 кг",
+      "price": 4343,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 86,
+      "name": "Яблоки зеленые, 1 кг",
+      "price": 2987,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 87,
+      "name": "Яблоки зеленые, 1 кг",
+      "price": 1461,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 88,
+      "name": "Морковь свежая, 1 кг",
+      "price": 4155,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 89,
+      "name": "Сыр твердый, 200 г",
+      "price": 1665,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 90,
+      "name": "Морковь свежая, 1 кг",
+      "price": 2474,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 91,
+      "name": "Морковь свежая, 1 кг",
+      "price": 622,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 92,
+      "name": "Картофель молодой, 2 кг",
+      "price": 4131,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 93,
+      "name": "Куриное филе, 1 кг",
+      "price": 4572,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 94,
+      "name": "Картофель молодой, 2 кг",
+      "price": 3461,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 95,
+      "name": "Сыр твердый, 200 г",
+      "price": 4311,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 96,
+      "name": "Морковь свежая, 1 кг",
+      "price": 3393,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 97,
+      "name": "Шоколад молочный",
+      "price": 396,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 98,
+      "name": "Морковь свежая, 1 кг",
+      "price": 774,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 99,
+      "name": "Яблоки зеленые, 1 кг",
+      "price": 3822,
+      "image": "/images/food.png"
+    },
+    {
+      "id": 100,
+      "name": "Куриное филе, 1 кг",
+      "price": 3692,
+      "image": "/images/food.png"
+    }
+  ],
+  "electronics": [
+    {
+      "id": 101,
+      "name": "Наушники беспроводные",
+      "price": 2121,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 102,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 1985,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 4902,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Колонка Bluetooth",
+      "price": 1064,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Кабель Lightning",
+      "price": 1489,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 106,
+      "name": "Колонка Bluetooth",
+      "price": 2405,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 107,
+      "name": "Кабель Lightning",
+      "price": 884,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Флешка 32 ГБ",
+      "price": 4341,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Мышь игровая",
+      "price": 1988,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 110,
+      "name": "Умные часы",
+      "price": 4196,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Колонка Bluetooth",
+      "price": 2647,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Умные часы",
+      "price": 1836,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 113,
+      "name": "Флешка 32 ГБ",
+      "price": 2833,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Монитор 24 дюйма",
+      "price": 2775,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 4710,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 116,
+      "name": "Наушники беспроводные",
+      "price": 2390,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 117,
+      "name": "Колонка Bluetooth",
+      "price": 3980,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Умные часы",
+      "price": 1920,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Монитор 24 дюйма",
+      "price": 1124,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Монитор 24 дюйма",
+      "price": 1281,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Наушники беспроводные",
+      "price": 1871,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 122,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 2403,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 4847,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Мышь игровая",
+      "price": 3071,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Монитор 24 дюйма",
+      "price": 1409,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 126,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 383,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 127,
+      "name": "Монитор 24 дюйма",
+      "price": 2310,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 128,
+      "name": "Зарядное устройство USB-C",
+      "price": 550,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 129,
+      "name": "Кабель Lightning",
+      "price": 4736,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 130,
+      "name": "Флешка 32 ГБ",
+      "price": 917,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 131,
+      "name": "Умные часы",
+      "price": 3255,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 132,
+      "name": "Умные часы",
+      "price": 2490,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 133,
+      "name": "Флешка 32 ГБ",
+      "price": 3740,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 134,
+      "name": "Мышь игровая",
+      "price": 1736,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 135,
+      "name": "Монитор 24 дюйма",
+      "price": 1510,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 136,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 1288,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 137,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 2363,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 138,
+      "name": "Колонка Bluetooth",
+      "price": 480,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 139,
+      "name": "Клавиатура механическая",
+      "price": 1028,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 140,
+      "name": "Зарядное устройство USB-C",
+      "price": 827,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 141,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 3916,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 142,
+      "name": "Монитор 24 дюйма",
+      "price": 1902,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 143,
+      "name": "Зарядное устройство USB-C",
+      "price": 1848,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 144,
+      "name": "Мышь игровая",
+      "price": 4878,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 145,
+      "name": "Пауэрбанк 10000 мАч",
+      "price": 3227,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 146,
+      "name": "Клавиатура механическая",
+      "price": 3988,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 147,
+      "name": "Мышь игровая",
+      "price": 3271,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 148,
+      "name": "Колонка Bluetooth",
+      "price": 2864,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 149,
+      "name": "Наушники беспроводные",
+      "price": 1393,
+      "image": "/images/electronics.jpg"
+    },
+    {
+      "id": 150,
+      "name": "Кабель Lightning",
+      "price": 3129,
+      "image": "/images/electronics.jpg"
+    }
+  ]
+}

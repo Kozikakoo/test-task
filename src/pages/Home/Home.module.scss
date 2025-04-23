@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  position: relative;
+  width: 80%;
+  margin: 0 auto 20px auto;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, 240px);
+  gap: 25px;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+}
