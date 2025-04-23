@@ -1,0 +1,49 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid $light-grey;
+  border-radius: 10px;
+  padding: 20px;
+  min-height: 350px;
+
+  &__img {
+    border-radius: 10px;
+    height: 240px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  &__info {
+    margin: 15px 0;
+  }
+
+  &__price {
+    font-weight: 700;
+    font-size: 1.8rem;
+  }
+
+  &__name {
+    font-size: 1.6rem;
+  }
+
+  &__btn {
+    display: flex;
+    font-size: 1.7rem;
+    margin: 0 auto;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 90%;
+    height: 40px;
+    border: 2px solid $dark-grey;
+    border-radius: 25px;
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+      cursor: pointer;
+      scale: 1.04;
+    }
+  }
+}
